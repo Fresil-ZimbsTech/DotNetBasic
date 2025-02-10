@@ -17,6 +17,10 @@ namespace ModelBindingASPCore.Controllers
         {
             return View();
         }
+        public string Details(int id,string name)
+        {
+            return "ID is:" + id + " Name is:" + name;  
+        }
 
         public IActionResult Privacy()
         {
