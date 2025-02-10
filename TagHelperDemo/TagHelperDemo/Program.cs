@@ -28,7 +28,8 @@ namespace TagHelperDemo
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "FresilPatel/{controller=Home}/{action=Index}/{id?}");
+                //pattern: "FresilPatel/{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

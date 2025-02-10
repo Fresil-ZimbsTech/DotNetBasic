@@ -12,10 +12,15 @@ namespace TagHelperDemo.Controllers
         {
             _logger = logger;
         }
-        [Route("")]
+        //[Route("")]
         public IActionResult Index()
         {
             return View();
+        }
+        [HttpPost]
+        public string Index(Employee e)
+        {
+            return "Name: " + e.Name + "Gender: " + e.Gender + "Age: " + e.Age + "Designation: " + e.Designation + "Salary: " + e.Salary + "Married :" + e.Married + "Description: " + e.Description ;
         } 
         public IActionResult Contact()
         {
