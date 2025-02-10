@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ta9BW91nPqo=",
+  "dgSpecHash": "23feY+RafTo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\TagHelperDemo\\TagHelperDemo\\TagHelperDemo.csproj",
+  "projectFilePath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\TagHelperDemo\\TagHelperDemo\\TagHelperDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\techn\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\techn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
