@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Views\\Home\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Views\\Home\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Views\\Home\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Views\\Home\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Models\\StudentDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Models\\StudentDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirst\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\codefirst\\codefirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C6D92-2188-4C5A-BBEF-EB3B654976EE}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "CodeFirst\\Views\\Home\\Delete.cshtml",
@@ -74,43 +74,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "CodeFirst\\Views\\Home\\Edit.cshtml",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "CodeFirst\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-12T06:21:39.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "CodeFirst\\Views\\Home\\Details.cshtml",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "CodeFirst\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-12T06:01:56.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "CodeFirst\\Views\\Home\\Create.cshtml",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "CodeFirst\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T05:22:58.715Z"
+              "WhenOpened": "2025-02-12T05:22:58.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CodeFirst\\Views\\Home\\Index.cshtml",
@@ -122,20 +123,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CodeFirst\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwG0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:28:04.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T11:28:04.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StudentDBContext.cs",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Models\\StudentDBContext.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\StudentDBContext.cs",
@@ -147,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CodeFirst\\CodeFirst\\Models\\Student.cs",
               "RelativeToolTip": "CodeFirst\\Models\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:08:32.712Z"
             }

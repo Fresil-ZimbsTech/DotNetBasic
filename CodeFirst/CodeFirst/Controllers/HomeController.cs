@@ -2,6 +2,7 @@ using System.Diagnostics;
 //using System.Web.Mvc;
 using CodeFirst.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace CodeFirst.Controllers
@@ -29,6 +30,12 @@ namespace CodeFirst.Controllers
         }
         public IActionResult Create()
         {
+            List<SelectListItem> Gender = new List<SelectListItem>
+            {
+                new SelectListItem{ Value = "Male" , Text = "Male"},
+                new SelectListItem{ Value = "Female" , Text = "Female"}
+                };
+            ViewBag.Gender = Gender;
 
             return View();
         }
@@ -38,8 +45,8 @@ namespace CodeFirst.Controllers
         {
             if (ModelState.IsValid)
             {
-               await studentDB.Students.AddAsync(std);
-               await studentDB.SaveChangesAsync();
+                await studentDB.Students.AddAsync(std);
+                await studentDB.SaveChangesAsync();
                 TempData["insert_success"] = "Data Inserted Successfully";
                 return RedirectToAction("Index", "Home");
             }
@@ -47,13 +54,13 @@ namespace CodeFirst.Controllers
         }
         public async Task<IActionResult> Details(int? id)
         {
-            if(id == null || studentDB.Students == null)
+            if (id == null || studentDB.Students == null)
             {
                 return NotFound();
             }
             var stdData = await studentDB.Students.FirstOrDefaultAsync(x => x.Id == id);
 
-            if(stdData == null)
+            if (stdData == null)
             {
                 return NotFound();
             }
@@ -61,12 +68,18 @@ namespace CodeFirst.Controllers
         }
         public async Task<IActionResult> Edit(int? id)
         {
-            if(id == null || studentDB.Students == null)
+            if (id == null || studentDB.Students == null)
             {
                 return NotFound();
             }
             var stdData = await studentDB.Students.FindAsync(id);
-            if(stdData == null)
+            List<SelectListItem> Gender = new List<SelectListItem>
+            {
+                new SelectListItem{ Value = "Male" , Text = "Male"},
+                new SelectListItem{ Value = "Female" , Text = "Female"}
+                };
+            ViewBag.Gender = Gender;
+            if (stdData == null)
             {
                 return NotFound();
             }
@@ -75,11 +88,11 @@ namespace CodeFirst.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int? id,Student std)
+        public async Task<IActionResult> Edit(int? id, Student std)
         {
-            if(id != std.Id)
+            if (id != std.Id)
             {
-                return NotFound();  
+                return NotFound();
             }
 
             if (ModelState.IsValid)
@@ -99,22 +112,22 @@ namespace CodeFirst.Controllers
                 return NotFound();
             }
             var stdData = await studentDB.Students.FirstOrDefaultAsync(x => x.Id == id);
-            if(stdData == null)
+            if (stdData == null)
             {
                 return NotFound();
             }
             return View(stdData);
         }
 
-        [HttpPost,ActionName("Delete")] // same delete method 2 var na define kari sakay same parameter sathe so avirite karvu pade
+        [HttpPost, ActionName("Delete")] // same delete method 2 var na define kari sakay same parameter sathe so avirite karvu pade
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirm(int? id)
         {
 
             var stdData = await studentDB.Students.FindAsync(id);
-            if(stdData != null)
+            if (stdData != null)
             {
-               studentDB.Students.Remove(stdData);
+                studentDB.Students.Remove(stdData);
             }
             await studentDB.SaveChangesAsync();
             TempData["Delete_success"] = "Data Deleted Successfully";
