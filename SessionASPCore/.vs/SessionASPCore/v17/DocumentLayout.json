@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\sessionaspcore\\sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\sessionaspcore\\sessionaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\sessionaspcore\\sessionaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\sessionaspcore\\sessionaspcore\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\sessionaspcore\\sessionaspcore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05B8629-037C-40B5-8EE8-647A9203192B}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Views\\Home\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SessionASPCore\\Views\\Home\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Views\\Home\\Logout.cshtml",
+              "RelativeToolTip": "SessionASPCore\\Views\\Home\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T05:04:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "SessionASPCore\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "SessionASPCore\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T11:49:14.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SessionASPCore\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SessionASPCore\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T11:43:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SessionASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SessionASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:38:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "SessionASPCore\\Program.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\SessionASPCore\\SessionASPCore\\Program.cs",
+              "RelativeToolTip": "SessionASPCore\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:34:11.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
