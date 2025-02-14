@@ -1,0 +1,85 @@
+﻿@model ViewModel.Models.SchoolViewModel
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">Welcome</h1>
+	<p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+<div class="container">
+	@if (Model.myStudent.Any())
+	{
+		<h2>STUDENT DATA: </h2>
+		<table class="table table-bordered table-dark table-striped table-hover">
+			<thead>
+				<tr>
+					<th>ID</th>
+					<th>NAME</th>
+					<th>GENDER</th>
+					<th>CLASS</th>
+				</tr>
+			</thead>
+			<tbody>
+				@{
+					foreach (var item in Model.myStudent)
+					{
+						<tr>
+							<td>@item.Id</td>
+							<td>@item.Name</td>
+							<td>@item.Gender</td>
+							<td>@item.Standard</td>
+						</tr>
+					}
+				}
+			</tbody>
+
+		</table>
+	}
+	else
+	{
+		<h2>NO STUDENT DATA FOUND</h2>
+	}
+
+	@* TEACHER DATA:  *@
+
+	@if (Model.myTeacher.Any())
+	{
+		<h2>TEACHERS DATA: </h2>
+		<table class="table  table-bordered table-dark table-striped table-hover">
+			<thead>
+				<tr>
+					<th>ID</th>
+					<th>NAME</th>
+					<th>QUALIFICATION</th>
+					<th>SALARY</th>
+				</tr>
+			</thead>
+			<tbody>
+				@{
+					foreach (var item in Model.myTeacher)
+					{
+						<tr>
+							<td>@item.Id</td>
+							<td>@item.Name</td>
+							<td>@item.Qualification</td>
+							<td>@item.Salary</td>
+						</tr>
+					}
+				}
+			</tbody>
+
+		</table>
+	}
+	else
+	{
+		<h2>NO TEACHER DATA FOUND</h2>
+}
+
+
+
+
+	</div>
