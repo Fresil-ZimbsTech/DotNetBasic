@@ -70,8 +70,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Delete.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T11:15:38.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:15:38.401Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Details.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T11:08:54.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:08:54.561Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Edit.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T10:49:05.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T10:49:05.877Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T09:35:39.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:35:39.927Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAcwHwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:27:06.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:27:06.709Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:22:39.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:22:39.617Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Models\\Student.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:03:57.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:03:57.854Z"
             }
           ]
         }

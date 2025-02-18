@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9017E57-54CB-4344-82A0-71DD321EB9AB}|CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Delete.cshtml",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Delete.cshtml",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Delete.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T11:15:38.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:15:38.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Details.cshtml",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Details.cshtml",
@@ -83,25 +82,24 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Details.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T11:08:54.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:08:54.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Edit.cshtml",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Edit.cshtml",
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T10:49:05.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Create.cshtml",
@@ -109,31 +107,30 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T09:35:39.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:35:39.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T09:30:33.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAcwHwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T09:27:06.709Z",
               "EditorCaption": ""
@@ -148,18 +145,17 @@
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:22:39.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:22:39.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CRUDAppUsingASPCoreWebAPI\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\CRUDAppUsingASPCoreWebAPI\\CRUDAppUsingASPCoreWebAPI\\Models\\Student.cs",
               "RelativeToolTip": "CRUDAppUsingASPCoreWebAPI\\Models\\Student.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T09:03:57.854Z",
               "EditorCaption": ""
