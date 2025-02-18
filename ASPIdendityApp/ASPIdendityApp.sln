@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPIdendityApp", "ASPIdendityApp\ASPIdendityApp.csproj", "{63DCF07F-7238-4CF3-B002-8111C4EA7258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DCF07F-7238-4CF3-B002-8111C4EA7258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DCF07F-7238-4CF3-B002-8111C4EA7258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DCF07F-7238-4CF3-B002-8111C4EA7258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DCF07F-7238-4CF3-B002-8111C4EA7258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77BB80DB-84DC-4EAF-8EF1-AC7DE34341E3}
+	EndGlobalSection
+EndGlobal

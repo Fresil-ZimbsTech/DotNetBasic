@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\migrations\\20250218054629_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\migrations\\20250218054629_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\dotnetbasic\\aspidendityapp\\aspidendityapp\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DCF07F-7238-4CF3-B002-8111C4EA7258}|ASPIdendityApp\\ASPIdendityApp.csproj|solutionrelative:aspidendityapp\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAqwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:59:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ASPIdendityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T05:59:39.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250218054629_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Migrations\\20250218054629_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\Migrations\\20250218054629_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Migrations\\20250218054629_InitialMigration.cs",
+              "RelativeToolTip": "ASPIdendityApp\\Migrations\\20250218054629_InitialMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:46:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\appsettings.json",
+              "RelativeToolTip": "ASPIdendityApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T05:43:20.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Program.cs",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\Program.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Program.cs",
+              "RelativeToolTip": "ASPIdendityApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:17:55.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:12:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\DotNetBasic\\ASPIdendityApp\\ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASPIdendityApp\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:12:00.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
